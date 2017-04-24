@@ -1,2 +1,2 @@
 # Neural-network-classification-of-MNIST
-A simple 2-layer perceptron network for classification of handwritten digits (MNIST). Code written with C++.
+In it's current form the calssification accuracy is 95%. That's ok for the simple model of 30 hidden nodes. By adding one more layer or more hidden nodes etc the accuracy could be improved. One of the purposes of making this code was to remind myself of c++ coding. The code is not completely polished, it has older code lines commented as I was playing around with dynamical allocating and had problems with stack overflow etc. A better and easier way atleast for me would be to use python and Keras for the classification. I will later add that do in Github.
